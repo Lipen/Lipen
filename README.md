@@ -38,6 +38,6 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lipen&show_icons=true&theme=onedark&locale=en" alt="lipen" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lipen&show_icons=true&theme=onedark&locale=en" alt="lipen" /></p> -->
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lipen&show_icons=true&theme=onedark&locale=en&layout=compact" alt="lipen" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lipen&show_icons=true&theme=onedark&locale=en&layout=compact" alt="lipen" /></p> -->
