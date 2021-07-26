@@ -3,7 +3,9 @@
 
 <p align="left">
 <!-- Place for badges -->
-<img src="https://komarev.com/ghpvc/?username=Lipen&label=Profile%20views&color=0e75b6&style=flat" alt="Lipen" />
+<img src="https://komarev.com/ghpvc/?username=Lipen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/stars/Lipen" alt="Stars" />
+<img src="https://img.shields.io/github/followers/Lipen" alt="Followers" />
 </p>
 
 :fire: I'm currently working on [fbSAT](https://github.com/ctlab/fbSAT) and [kotlin-satlib](https://github.com/Lipen/kotlin-satlib)
