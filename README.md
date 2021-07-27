@@ -21,7 +21,6 @@
 -->
 
 <p>
-<!-- TeX --><a href="https://tug.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/TeX_logo.svg" alt="TeX" width="32" height="32"/> </a>
 <!-- AWS --><a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="32" height="32"/> </a>
 <!-- Bash --><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="32" height="32"/> </a>
 <!-- C --><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32" height="32"/> </a>
@@ -46,6 +45,7 @@
 <!-- Rust --><a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="32" height="32"/> </a>
 <!-- SQLite --><a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="32" height="32"/> </a>
 <!-- TensorFlow --><a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="32" height="32"/> </a>
+<!-- TeX --><a href="https://tug.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/1920px-TeX_logo.svg.png" alt="TeX" width="32" height="32"/> </a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lipen&show_icons=true&theme=onedark&locale=en" alt="lipen" /></p> -->
