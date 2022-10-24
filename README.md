@@ -2,7 +2,7 @@
   <img src="assets/cat-arch.png" height="128"/>
   <div id="social">
     <a href="https://www.linkedin.com/in/kchukharev/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </div>
   <div id="badges">
