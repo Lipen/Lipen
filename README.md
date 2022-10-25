@@ -19,7 +19,7 @@
 </div>
 
 # Hi there 👋, I'm Konstantin
-![](https://readme-typing-svg.demolab.com/?multiline=true&height=100&duration=2000&pause=1000&font=Montserrat&lines=A+researcher+👨‍🎓,;software+developer+🧙‍♂️,;lecturer+👨‍🏫+at+ITMO+University+🏫)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&height=100&duration=2000&pause=1000&font=Montserrat&lines=A+researcher+👨‍🎓,;software+developer+🧙‍♂️,;lecturer+👨‍🏫+at+ITMO+University+🏫)](https://git.io/typing-svg)
 
 🔥 I'm currently working on: [kotlin-satlib](https://github.com/Lipen/kotlin-satlib) and [sat-nexus](https://github.com/Lipen/sat-nexus)
 
