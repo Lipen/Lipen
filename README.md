@@ -1,11 +1,11 @@
-<div align="center">
+<div id="header" align="center">
   <img src="assets/cat-arch.png" height="128"/>
-  <div id="social">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/kchukharev/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </div>
-  <div id="badges">
+  <div id="stats">
     <a href="https://github.com/Lipen">
       <img src="https://komarev.com/ghpvc/?username=Lipen" alt="Profile views"/>
     </a>
@@ -18,8 +18,8 @@
   </div>
 </div>
 
-<h2 align="center"> Hi there 👋, I'm Konstantin</h1>
-<h3 align="center">A researcher👨‍🎓, software developer🧙‍♂️, lecturer👨‍🏫 at ITMO University🏫</h2>
+## Hi there 👋, I'm Konstantin
+<img src="https://readme-typing-svg.demolab.com/?multiline=true&height=100&duration=2000&pause=1000&font=Montserrat&lines=A+researcher+👨‍🎓,;software+developer+🧙‍♂️,;lecturer+👨‍🏫+at+ITMO+University+🏫" />
 
 🔥 I'm currently working on: [kotlin-satlib](https://github.com/Lipen/kotlin-satlib) and [sat-nexus](https://github.com/Lipen/sat-nexus)
 
