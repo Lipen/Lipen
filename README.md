@@ -18,7 +18,7 @@
   </div>
 </div>
 
-## Hi there 👋, I'm Konstantin
+# Hi there 👋, I'm Konstantin
 <img src="https://readme-typing-svg.demolab.com/?multiline=true&height=100&duration=2000&pause=1000&font=Montserrat&lines=A+researcher+👨‍🎓,;software+developer+🧙‍♂️,;lecturer+👨‍🏫+at+ITMO+University+🏫" />
 
 🔥 I'm currently working on: [kotlin-satlib](https://github.com/Lipen/kotlin-satlib) and [sat-nexus](https://github.com/Lipen/sat-nexus)
