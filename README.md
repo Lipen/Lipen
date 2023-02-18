@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="32"/>
-  <img src="https://raw.githubusercontent.com/yewstack/yew/master/.static/yew.svg" alt="Yew" height="32"/>
+  <img src="https://yew.rs/img/logo.png" alt="Yew" height="32"/>
 </div>
 
 <img src="assets/waves.svg" width="100%" height="100">
