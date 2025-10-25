@@ -1,66 +1,34 @@
-<div id="header" align="center">
-  <img src="assets/cat-arch.png" height="128"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/kchukharev/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </div>
-  <div id="stats">
-    <a href="https://github.com/Lipen">
-      <img src="https://komarev.com/ghpvc/?username=Lipen" alt="Profile views"/>
-    </a>
-    <a href="https://github.com/Lipen?tab=repositories&q=&type=source&language=&sort=stargazers">
-      <img src="https://img.shields.io/github/stars/Lipen" alt="Stars"/>
-    </a>
-    <a href="https://github.com/Lipen?tab=followers">
-      <img src="https://img.shields.io/github/followers/Lipen" alt="Followers"/>
-    </a>
-  </div>
+<div align="center">
+
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=180&section=header&text=Konstantin%20Chukharev&fontSize=42&fontAlignY=30&desc=Researcher%20%7C%20ITMO%20University&descAlignY=50&descSize=16)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/kchukharev/)
+  [![Email](https://img.shields.io/badge/lipen00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lipen00@gmail.com)
+  [![GPG](https://img.shields.io/badge/GPG-D0EF616F416E8333-0E3C6C?style=for-the-badge)](https://keyserver.ubuntu.com/pks/lookup?search=D0EF616F416E8333&fingerprint=on&op=index)
+
+  [![Profile views](https://komarev.com/ghpvc/?username=Lipen&label=visits&style=flat-square&abbreviated=true)](https://github.com/Lipen)
+  [![Stars](https://img.shields.io/github/stars/Lipen?style=flat-square)](https://github.com/Lipen?tab=repositories&q=&type=source&language=&sort=stargazers)
+  [![Followers](https://img.shields.io/github/followers/Lipen?style=flat-square)](https://github.com/Lipen?tab=followers)
+
 </div>
 
-# Hi there 👋, I'm Konstantin
-[![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&height=100&duration=2000&pause=1000&font=Montserrat&lines=A+researcher+👨‍🎓,;software+developer+🧙‍♂️,;lecturer+👨‍🏫+at+ITMO+University+🏫)](https://git.io/typing-svg)
+**Researcher** in formal methods at **ITMO University**, specializing in SAT/SMT solving, symbolic execution, and program analysis. I develop educational materials and teach discrete mathematics, focusing on practical applications of formal verification in software engineering.
 
-🔥 I'm currently working on: [kotlin-satlib](https://github.com/Lipen/kotlin-satlib) and [sat-nexus](https://github.com/Lipen/sat-nexus)
+## Projects
 
-🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)
+- **[kotlin-satlib](https://github.com/Lipen/kotlin-satlib)** — SAT solvers library for JVM
+- **[sat-nexus](https://github.com/Lipen/sat-nexus)** — SAT solvers library for Rust
+- **[discrete-math-course](https://github.com/Lipen/discrete-math-course)** — Supplementary materials for Discrete Mathematics
+- **[formal-methods-course](https://github.com/Lipen/formal-methods-course)** — Educational resources for Formal Methods
+- **[USVM](https://github.com/UnitTestBot/usvm)** — Symbolic execution engine for automated program analysis (core contributor)
+- **[JacoDB](https://github.com/UnitTestBot/jacodb)** — Java bytecode analysis framework with interprocedural analysis (core contributor)
 
-📧 Drop me a mail: `lipen00@gmail.com`
+## Tech Stack
 
-🔑 My GPG key is [`D0EF616F416E8333`](https://keyserver.ubuntu.com/pks/lookup?search=D0EF616F416E8333&fingerprint=on&op=index)
-
-### Languages, Tools and Technologies:
-
-<div id="tools">
-  <img src="https://archlinux.org/logos/archlinux-icon-crystal-256.svg" alt="Arch Linux" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" alt="NixOS" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="32"/>
-  <img src="https://yew.rs/img/logo.png" alt="Yew" height="32"/>
-</div>
-
-<img src="assets/waves.svg" width="100%" height="100">
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Typst](https://img.shields.io/badge/Typst-FF3D00?style=for-the-badge&logo=typst&logoColor=white)](https://typst.app/)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
