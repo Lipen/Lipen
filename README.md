@@ -32,3 +32,5 @@
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Typst](https://img.shields.io/badge/Typst-FF3D00?style=for-the-badge&logo=typst&logoColor=white)](https://typst.app/)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
+
+![Counter](https://hit.yhype.me/github/profile?account_id=1026835)
