@@ -1,27 +1,36 @@
 <div align="center">
-
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=180&section=header&text=Konstantin%20Chukharev&fontSize=42&fontAlignY=30&desc=Researcher%20%7C%20ITMO%20University&descAlignY=50&descSize=16)
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/kchukharev/)
-  [![Email](https://img.shields.io/badge/lipen00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lipen00@gmail.com)
-  [![GPG](https://img.shields.io/badge/GPG-D0EF616F416E8333-0E3C6C?style=for-the-badge)](https://keyserver.ubuntu.com/pks/lookup?search=D0EF616F416E8333&fingerprint=on&op=index)
-
-  [![Profile views](https://komarev.com/ghpvc/?username=Lipen&label=visits&style=flat-square&abbreviated=true)](https://github.com/Lipen)
-  [![Stars](https://img.shields.io/github/stars/Lipen?style=flat-square)](https://github.com/Lipen?tab=repositories&q=&type=source&language=&sort=stargazers)
-  [![Followers](https://img.shields.io/github/followers/Lipen?style=flat-square)](https://github.com/Lipen?tab=followers)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img src="assets/header-dark.svg" width="100%" alt="Hexagonal lattice header">
+  </picture>
 </div>
 
-**Researcher** in formal methods at **ITMO University**, specializing in SAT/SMT solving, symbolic execution, and program analysis. I develop educational materials and teach discrete mathematics, focusing on practical applications of formal verification in software engineering.
+# Konstantin Chukharev
+
+_Software Engineer_ at a blooming tech giant · _Lecturer_ at ITMO University
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kchukharev/)
+[![Email](https://img.shields.io/badge/lipen00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lipen00@gmail.com)
+[![GPG](https://img.shields.io/badge/GPG-D0EF616F416E8333-0E3C6C?style=for-the-badge)](https://keyserver.ubuntu.com/pks/lookup?search=D0EF616F416E8333&fingerprint=on&op=index)
+
+I build compilers and developer tooling: language front ends, IDL-driven generators for native bindings, incremental build pipelines, and everything it takes to ship them.
+At ITMO University I teach discrete mathematics and formal methods.
 
 ## Projects
 
-- **[kotlin-satlib](https://github.com/Lipen/kotlin-satlib)** — SAT solvers library for JVM
-- **[sat-nexus](https://github.com/Lipen/sat-nexus)** — SAT solvers library for Rust
-- **[discrete-math-course](https://github.com/Lipen/discrete-math-course)** — Supplementary materials for Discrete Mathematics
-- **[formal-methods-course](https://github.com/Lipen/formal-methods-course)** — Educational resources for Formal Methods
-- **[USVM](https://github.com/UnitTestBot/usvm)** — Symbolic execution engine for automated program analysis (core contributor)
-- **[JacoDB](https://github.com/UnitTestBot/jacodb)** — Java bytecode analysis framework with interprocedural analysis (core contributor)
+- **[discrete-math-course](https://github.com/Lipen/discrete-math-course)** — Discrete Math course at ITMO University
+- **[formal-methods-course](https://github.com/Lipen/formal-methods-course)** — Formal Methods course at ITMO University
+- **[kotlin-satlib](https://github.com/Lipen/kotlin-satlib)** — SAT solver wrappers for the JVM
+- **[sat-nexus](https://github.com/Lipen/sat-nexus)** — SAT solver wrappers for Rust
+- **[ananke](https://github.com/Lipen/ananke)** — decision diagrams for Rust
+- **[nexus-raw](https://github.com/Lipen/nexus-raw)** — CLI and library for Sonatype Nexus raw repositories
+- **[typst-fitch](https://github.com/Lipen/typst-fitch)** — Fitch-style natural deduction proofs for Typst
+
+## Contributions
+
+- **[USVM](https://github.com/UnitTestBot/usvm)** — symbolic execution engine (core contributor)
+- **[JacoDB](https://github.com/UnitTestBot/jacodb)** — bytecode analysis framework (core contributor)
 
 ## Tech Stack
 
@@ -32,5 +41,3 @@
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Typst](https://img.shields.io/badge/Typst-FF3D00?style=for-the-badge&logo=typst&logoColor=white)](https://typst.app/)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
-
-![Counter](https://hit.yhype.me/github/profile?account_id=1026835)
